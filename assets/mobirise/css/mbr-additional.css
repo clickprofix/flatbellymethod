@@ -1376,6 +1376,9 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-r9LEno0UrM {
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+}
 .cid-r9LRSvDUqN {
   background: #ffffff;
 }
@@ -1387,9 +1390,6 @@ body {
   .cid-r9LRSvDUqN .video-block {
     width: 100% !important;
   }
-}
-.cid-r9LEno0UrM {
-  background-color: #555555;
 }
 .cid-r9LOg4rzoF {
   padding-top: 90px;
